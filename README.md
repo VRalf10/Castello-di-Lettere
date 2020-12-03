@@ -1,2 +1,2 @@
-# Castello-di-Lettere
-Applicazione per iPhone
+# Castello di Lettere
+iOS Application
