@@ -1,7 +1,7 @@
 # <img src="images/logo.png" width="400">
 iOS application
 <br>
-## Components (General)
+## Languages
 - Swift
 <br>
 <br>
